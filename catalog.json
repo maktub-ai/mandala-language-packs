@@ -7,12 +7,12 @@
       "id": "arabic-starter",
       "name": "العربية (تجريبية)",
       "description": "Arabic starter translation: navigation, Market and selected settings. Partial, not native-reviewed; missing text uses English.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "publisher": "MaktubCN",
       "minAppVersion": "0.1.1",
       "package": {
-        "repository": "maktub-ai/mandala-language-packs",
-        "revision": "f35e0860932c4323348ec4429f5a36dcee75fafd",
+        "repository": "maktub-ai/mandala-plugins",
+        "revision": "cc523a0aebca246c91013acf517f6652d5ffd83d",
         "path": "packages/ar.mandala-language.json",
         "sha256": "ae93fd773fc7d66e529af2753aa187c42485f2797d7449327684bd899c2f9a06"
       }
